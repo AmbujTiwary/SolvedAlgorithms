@@ -17,6 +17,8 @@ public class BSTData {
 		bdata.insert(6);
 		bdata.insert(16);
 		bdata.insert(8);
+		
+		bdata.insert(19);
 		bdata.insert(15);
 		bdata.insert(3);
 		bdata.insert(20);
